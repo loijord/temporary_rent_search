@@ -20,3 +20,8 @@ Kas apžiūrėta (sekmadienis, 18val):
 * 5:15pm. pirmadienis, 500€ https://www.skelbiu.lt/skelbimai/vilniaus-m-sav-vilniaus-m-karoliniskes-69644841.html
 * 6:30pm. pirmadienis, 500€ https://www.facebook.com/groups/474634139331294/posts/6115812578546727/
 * Rezervuota, jei kažkas pasikeis po ketvirtadienio, praneš. Lazdynai, Architektų g, 550€
+
+### Sumos: 
+* S: 224
+* E: 820
+* Total: 1044
