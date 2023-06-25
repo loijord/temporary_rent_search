@@ -12,7 +12,7 @@
 11. [Vilnius, Antakalnis, P. Vileišio g., 2 kambarių buto nuoma, 600€](https://www.aruodas.lt/nt_zemelapis/butu-nuoma/vilniuje/?obj=4&FOrder=Importance&FRegion=461&FDistrict=1&FPriceMin=300&FPriceMax=610&on_map=1&FRoomNumMin=2&FRoomNumMax=4&FAreaOverAllMin=40#zoom:16;center:(54.71613695643286,25.315406701631826);4-1234025) - dar vienas fainulis
 12. [Vilnius, Antakalnis, P. Vileišio g., 2 kambarių buto nuoma, 500€](https://www.aruodas.lt/nt_zemelapis/butu-nuoma/vilniuje/?obj=4&FOrder=Importance&FRegion=461&FDistrict=1&FPriceMin=300&FPriceMax=610&on_map=1&FRoomNumMin=2&FRoomNumMax=4&FAreaOverAllMin=40#zoom:16;center:(54.71613695643286,25.315406701631826);4-1236089) - kas yra tai?
 
-Kas apžiūrėta:
+Kas apžiūrėta (sekmadienis, 18val):
 
 ![](seen.png)
 
