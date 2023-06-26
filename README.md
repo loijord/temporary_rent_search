@@ -29,6 +29,7 @@ Skirtumas tarp sekmadienio 18val ir pirmadienio 15 val:
 * https://www.facebook.com/groups/797482077795470/user/100000815861251/ - dabar susirasineju su savininke sito, galimas apžiūrėjimas antradienį vakare.
 
 ### Sumos: 
-* S: 224
-* E: 820
-* Total: 1044
+* S: 250
+* E: 800
+* Rytdienos nuomai ir vaistams: 100
+* Total: 1050 - 100 = 950
