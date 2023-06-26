@@ -20,11 +20,15 @@ Skirtumas tarp sekmadienio 18val ir pirmadienio 15 val:
 
 ![](seen_diff.png)
 
+### Butai: Simonas - second batch (nauji skelbimai)
+1. [Vilnius, Vilkpėdė, Titnago g., 2 kambarių buto nuoma](https://www.aruodas.lt/nt_zemelapis/butu-nuoma/vilniuje/?obj=4&FOrder=Importance&FRegion=461&FDistrict=1&FPriceMin=300&FPriceMax=610&on_map=1&FRoomNumMin=2&FRoomNumMax=4&FAreaOverAllMin=40&fbclid=IwAR2RAg6xk4RVIg2u1-Wtn1eMyVdh2msT1ZjBPAEXZ8zOPDQvWPiCsiDWaW0#zoom:13;center:(54.672684041236,25.248858882879954);4-1240167) - man būtų jaukus.
+2. 
 ### Emilli
 * 5:15pm. pirmadienis [IŠNUOMOTA], https://www.skelbiu.lt/skelbimai/vilniaus-m-sav-vilniaus-m-karoliniskes-69644841.html
 * 6:30pm. pirmadienis [APŽIŪRĖTA], https://www.facebook.com/groups/474634139331294/posts/6115812578546727/
 * 5:15pm. pirmadienis 15:00 [APŽIŪRĖTA]: https://www.skelbiu.lt/skelbimai/nuoma-2-kambariu-butas-69661167.html
 * Rezervuota, jei kažkas pasikeis po ketvirtadienio, praneš. Lazdynai, Architektų g, 550€
+* https://www.skelbiu.lt/skelbimai/nuomojamas-2-kambariu-butas-snipiskese-69677173.html#&gid=1&pid=1 21:30 Šnipiškės, nepereinamas už 500
 * https://www.facebook.com/groups/797482077795470/posts/1241204563423217/ - žiauriai fainas, bet 600
 * https://www.facebook.com/groups/797482077795470/user/100000815861251/ - dabar susirasineju su savininke sito, galimas apžiūrėjimas antradienį vakare.
 
