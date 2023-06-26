@@ -16,10 +16,17 @@ Kas apžiūrėta (sekmadienis, 18val):
 
 ![](seen.png)
 
-### Butai: Emilli
-* 5:15pm. pirmadienis, 500€ https://www.skelbiu.lt/skelbimai/vilniaus-m-sav-vilniaus-m-karoliniskes-69644841.html
-* 6:30pm. pirmadienis, 500€ https://www.facebook.com/groups/474634139331294/posts/6115812578546727/
+Skirtumas tarp sekmadienio 18val ir pirmadienio 15 val:
+
+![](seen_diff.png)
+
+### Emilli
+* 5:15pm. pirmadienis [IŠNUOMOTA], https://www.skelbiu.lt/skelbimai/vilniaus-m-sav-vilniaus-m-karoliniskes-69644841.html
+* 6:30pm. pirmadienis [APŽIŪRĖTA], https://www.facebook.com/groups/474634139331294/posts/6115812578546727/
+* 5:15pm. pirmadienis 15:00 [APŽIŪRĖTA]: https://www.skelbiu.lt/skelbimai/nuoma-2-kambariu-butas-69661167.html
 * Rezervuota, jei kažkas pasikeis po ketvirtadienio, praneš. Lazdynai, Architektų g, 550€
+* https://www.facebook.com/groups/797482077795470/posts/1241204563423217/ - žiauriai fainas, bet 600
+* https://www.facebook.com/groups/797482077795470/user/100000815861251/ - dabar susirasineju su savininke sito, galimas apžiūrėjimas antradienį vakare.
 
 ### Sumos: 
 * S: 224
